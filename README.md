@@ -35,8 +35,10 @@ An example of Django project with basic user functionality.
 ### Clone the project
 
 ```
-
+Download this project
 cd simple-django-login-and-register
+django-admin startproject file_name(like login)
+cd login
 ```
 
 ### Install dependencies & activate virtualenv
